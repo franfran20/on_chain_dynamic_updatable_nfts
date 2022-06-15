@@ -18,3 +18,4 @@ You can interact with this contract on etherscan rinkeby if you want to and mint
 
 # NOTICE
 I understand that its a tedious process to go through this process of interaction on etherscan rinkeby.Thats why i'll work on a marketplace and mint site in the future and make it easy to interact with. thanks!
+Oh and on mainnet it's quite expensive but polygon mainnet is quite cheap!
