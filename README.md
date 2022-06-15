@@ -5,12 +5,12 @@ This contract is a basic template for an on chain NFT that can be updated by the
 ## HOW TO MINT YOURS AND UPDATE
 You can interact with this contract on etherscan rinkeby if you want to and mint your own NFT!
 
-1. Visit the contract on rinkeby eteherscan [here]([https://github.com/user/repo/blob/branch/other_file.md](https://rinkeby.etherscan.io/address/0xb0E9fAD0287edE3Fc775afA7dB6a1E06f1585830#writeContract))
+1. Visit the contract on rinkeby eteherscan [here](https://rinkeby.etherscan.io/address/0xb0E9fAD0287edE3Fc775afA7dB6a1E06f1585830#writeContract))
 2. Connect your wallet and make sure you have some rinkeby testnet ETH.
 3. Click on "createNft" and then click "Write".
 4. Wait for your transaction to be confirmed. You should see your NFT on opensea tesnet under your profile.
 5. You'll notice you have a stat of 0. Its normal you just have to update the NFT and reveal the update.
-6. Go back to the etherscan contract link [here]([https://github.com/user/repo/blob/branch/other_file.md].
+6. Go back to the etherscan contract link.
 7. Click on "updateNft" putting in your tokenId and then "Write".(If you dont know your tokenId just check your NFT description on opensea).
 8. Wait for your transaction to be confirmed. Then give it a minute.
 9. After a minute. Click on the "revealNft" putting in your token Id and then click "Write" and then wait for your transaction to be ocnfirmed.
